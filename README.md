@@ -1,6 +1,6 @@
 # Robot Arm Gesture
-
 Personal project that uses OpenCV and Google's mediapipe library to control a robot arm, using the ESP32 microcontroller over serial.
+[ADD GIF]
 
 The arm used was the MeArm v3, with the PCB replaced by a custom made 3D printed piece to hold the arm in place (.stl file included).
 
