@@ -11,11 +11,11 @@ Left Hand Control:
 -  Select claw
 ![](./d_sign.png)
 - Select forearm
-  <img src="thumb_up.png" width="150"/>
+<img src="thumb_up.png" width="150"/>
 - Select main arm
-  ![](./y_sign.png)
+![](./y_sign.png)
 - Halt movement
-  <img src="stop_hand.png" width="150"/>
+<img src="stop_hand.png" width="150"/>
 
 
 
