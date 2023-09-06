@@ -24,7 +24,7 @@ The ASL for "D", "Y" and a thumbs up gesture are used to control the claw, main 
 <img src="close_hand.jpg" width="150"/><br/>
   
 
-[This](https://www.youtube.com/watch?v=a99p_fAr6e4) Youtube video by Ivan Goncharov and the [hand-gesture-recognition-mediapipe](https://github.com/kinivi/hand-gesture-recognition-mediapipe) repository were used to create this project. 
+[This](https://www.youtube.com/watch?v=a99p_fAr6e4) youtube video by Ivan Goncharov and the [hand-gesture-recognition-mediapipe](https://github.com/kinivi/hand-gesture-recognition-mediapipe) repository were used to create this project. 
 Ivan does a great job of explaining how the program uses CV to recognise hand gestures and shows how to train the model for different gestures.
 Edits have been made to the app.py file in order for the hand gestures in the webcam to be used to control the ESP32.
 
