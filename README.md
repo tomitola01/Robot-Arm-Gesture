@@ -29,7 +29,7 @@ Ivan does a great job of explaining how the program uses CV to recognise hand ge
 Edits have been made to the app.py file in order for the hand gestures in the webcam to be used to control the ESP32.
 
 ## Get started
-1. Print off the arm_base.stl file then follow the instructions[link] to build the mearm
+1. Print off the arm_base.stl file then follow the [instructions](http://learn.mearm.com/docs/building-the-mearm-v3/) to build the mearm
 2. Using a breadboard, connect the voltage pins of the servo motors to the 5V pin of the ESP32 board and the groud pins of the motors to the GND pin of the ESP32.
 3. Connect the claw, forearm and main arm servos to pins 26, 32 and 33 respecitvely.
 4. Upload the multi_python control sketch to the ESP32.
