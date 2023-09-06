@@ -8,7 +8,7 @@ The ASL for "D", "Y" and a thumbs up gesture are used to control the claw, main 
 ![](./mearm.png)
 
 Left Hand Control:
-<ul>
+<ul style="list-style-type: none">
     <li>Select Claw
         <img src="d_sign.png"></li>
 </ul>
