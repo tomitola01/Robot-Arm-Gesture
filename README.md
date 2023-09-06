@@ -5,7 +5,7 @@ Personal project that uses OpenCV and Google's mediapipe library to control a ro
 The arm used was the MeArm v3, with the PCB replaced by a custom made 3D printed piece to hold the arm in place (.stl file included).
 
 The ASL for "D", "Y" and a thumbs up gesture are used to control the claw, main arm and forearm respectively. See below for illustration.
-<img src="mearm.png" width="200"/><br/>
+<img src="mearm.png" width="400"/><br/>
 
 **Left Hand Control:**<br/>
 - Select claw:<br/>
