@@ -12,8 +12,6 @@ Left Hand Control:
 - ![](./thumb_up.png) select forearm
 - ![](./y_sign.png) select main arm
 - ![](./stop_hand.png) halt movement
-- why
-- oh why
 
 Right Hand Control:
 - ![](./stop_hand.png) open claw/move arm up
