@@ -8,14 +8,11 @@ The ASL for "D", "Y" and a thumbs up gesture are used to control the claw, main 
 ![](./mearm.png)
 
 Left Hand Control:
--  Select claw
-    ![](./d_sign.png)
-- Select forearm
-  ![](./thumb_up.png)
-- Select main arm
-  ![](./y_sign.png)
-- Halt movement
-  ![](./stop_hand.png)
+<ul>
+    <li><img src="d_sign.png"></li>
+</ul>
+
+
 
 Right Hand Control:
 - Open claw/move arm up
