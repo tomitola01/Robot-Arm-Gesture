@@ -8,14 +8,14 @@ The ASL for "D", "Y" and a thumbs up gesture are used to control the claw, main 
 ![](./mearm.png)
 
 Left Hand Control:
-- ![](./d_sign.png) select claw
-- ![](./thumb_up.png) select forearm
-- ![](./y_sign.png) select main arm
-- ![](./stop_hand.png) halt movement
+-  Select claw ![](./d_sign.png)
+- Select forearm ![](./thumb_up.png)
+- Select main arm ![](./y_sign.png)
+- Halt movement ![](./stop_hand.png)
 
 Right Hand Control:
-- ![](./stop_hand.png) open claw/move arm up
-- ![](./close_hand.jpg) close claw/move arm down
+- Open claw/move arm up ![](./stop_hand.png)
+- Close claw/move arm down ![](./close_hand.jpg)
 
 [This](https://www.youtube.com/watch?v=a99p_fAr6e4) Youtube video by Ivan Goncharov and the [hand-gesture-recognition-mediapipe](https://github.com/kinivi/hand-gesture-recognition-mediapipe) repository were used to create this project. 
 Ivan does a great job of explaining how the program uses CV to recognise hand gestures and shows how to train the model for different gestures.
