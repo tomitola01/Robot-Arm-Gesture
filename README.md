@@ -9,19 +9,19 @@ The ASL for "D", "Y" and a thumbs up gesture are used to control the claw, main 
 
 **Left Hand Control:**<br/>
 - Select claw:<br/>
-![](./d_sign.png)<br/>
+![](./images/d_sign.png)<br/>
 - Select forearm:<br/>
-<img src="thumb_up.png" width="150"/><br/>
+<img src="images/thumb_up.png" width="150"/><br/>
 - Select main arm:<br/>
-![](./y_sign.png)<br/>
+![](./images/y_sign.png)<br/>
 - Halt movement:<br/>
-<img src="stop_hand.png" width="150"/><br/>
+<img src="images/stop_hand.png" width="150"/><br/>
 
 **Right Hand Control:**<br/>
 - Open claw/move arm up:<br/>
-<img src="stop_hand.png" width="150"/><br/>
+<img src="images/stop_hand.png" width="150"/><br/>
 - Close claw/move arm down:<br/>
-<img src="close_hand.jpg" width="150"/><br/>
+<img src="images/close_hand.jpg" width="150"/><br/>
   
 
 [This](https://www.youtube.com/watch?v=a99p_fAr6e4) youtube video by Ivan Goncharov and the [hand-gesture-recognition-mediapipe](https://github.com/kinivi/hand-gesture-recognition-mediapipe) repository were used to create this project. 
