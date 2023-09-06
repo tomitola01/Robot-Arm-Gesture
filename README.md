@@ -7,20 +7,20 @@ The arm used was the MeArm v3, with the PCB replaced by a custom made 3D printed
 The ASL for "D", "Y" and a thumbs up gesture are used to control the claw, main arm and forearm respectively. See below for illustration.
 ![](./mearm.png)
 
-Left Hand Control:<br/>
-Select claw<br/>
+**Left Hand Control:**<br/>
+- Select claw:<br/>
 ![](./d_sign.png)<br/>
-Select forearm<br/>
+- Select forearm:<br/>
 <img src="thumb_up.png" width="150"/><br/>
-Select main arm<br/>
+- Select main arm:<br/>
 ![](./y_sign.png)<br/>
-Halt movement<br/>
+- Halt movement:<br/>
 <img src="stop_hand.png" width="150"/><br/>
 
-Right Hand Control:<br/>
-Open claw/move arm up<br/>
+**Right Hand Control:**<br/>
+- Open claw/move arm up:<br/>
 <img src="stop_hand.png" width="150"/><br/>
-Close claw/move arm down<br/>
+- Close claw/move arm down:<br/>
 <img src="close_hand.jpg" width="150"/><br/>
   
 
